@@ -1,2 +1,2 @@
-# gbspb.github.io/lp-obc
+# landing-page-obc
  Lesson from OneBitCode - Making a landing page
