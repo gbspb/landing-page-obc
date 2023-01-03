@@ -8,6 +8,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
+  min-width: 464px;
   color: #fff;
   font-weight: 300;
 }
