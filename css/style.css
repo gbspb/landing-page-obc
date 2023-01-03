@@ -1,0 +1,54 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: #fff;
+  font-weight: 300;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 186px;
+}
+
+.paragraph {
+  margin: 7px 0px;
+  font-weight: 500;
+}
+
+.btnSend {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+}
+.btnSend:hover {
+  background-color: #ff0043;
+  color: #fff;
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+.gitLink {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s linear;
+  font-weight: 500;
+}
+.gitLink:hover {
+  color: #ff0043;
+}
+
+/*# sourceMappingURL=style.css.map */
