@@ -17,4 +17,3 @@ document.getElementById("validationCustom").addEventListener("click", function (
 document.getElementById("validationCustom").addEventListener("click", function () {
     document.getElementById("flexRadioDefault1").disabled = true;
 });
-
