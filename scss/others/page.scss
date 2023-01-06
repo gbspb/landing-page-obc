@@ -58,5 +58,17 @@ body {
 @media(max-width: 630px) {
     .container1 {
         width: auto;
+
+        form,
+        span,
+        input,
+        select,
+        button {
+            font-size: small;
+        }
+    }
+
+    .footer {
+        font-size: small;
     }
 }

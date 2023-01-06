@@ -56,6 +56,16 @@ body {
   .container1 {
     width: auto;
   }
+  .container1 form,
+  .container1 span,
+  .container1 input,
+  .container1 select,
+  .container1 button {
+    font-size: small;
+  }
+  .footer {
+    font-size: small;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
